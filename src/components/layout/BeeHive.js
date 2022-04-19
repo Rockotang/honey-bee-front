@@ -64,13 +64,13 @@ const bees = [
   },
   {
     image: beeKaren,
-    name: '22 $HNYb',
+    name: '24 $HNYb',
     description: '0h 0m 0s',
     category: 'Collect'
   },
   {
     image: beeQueen,
-    name: '70 $HNYb',
+    name: '80 $HNYb',
     description: '0h 0m 0s',
     category: 'Collect'
   }
